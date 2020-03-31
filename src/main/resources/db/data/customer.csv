@@ -1,0 +1,4 @@
+id;first_name;last_name;created_date;customer_type
+1;Taleb;Employee;2019-05-19;EMPLOYEE
+2;Omar;Affiliate;2019-05-19;AFFILIATE
+3;Karim;"Customer With More Than 2 years";2016-05-19;CUSTOMER
