@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>14</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<io.springfox-version>2.9.2</io.springfox-version>
+		<io.springfox-version>2.10.0</io.springfox-version>
 		<org.jacoco-version>0.8.3</org.jacoco-version>
 		<sonar.coverage.exclusions>**/domain/**/*,**/config/*,**/dtos/*</sonar.coverage.exclusions>
 	</properties>
